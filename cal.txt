@@ -1,0 +1,7 @@
+class Main{	
+p s v calc(int a , int b) {}
+
+	psvm(s[] args){
+
+}
+}
