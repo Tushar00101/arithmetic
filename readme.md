@@ -3,5 +3,5 @@
 3>. feature-sub method subtract 
 4>. feature-mul method multiplication
 5>. feature-div method division
-
+6>. feture-mod method modulous
 
