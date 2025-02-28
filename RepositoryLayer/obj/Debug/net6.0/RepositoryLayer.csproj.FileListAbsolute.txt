@@ -1,0 +1,11 @@
+C:\Users\vpush\Desktop\#\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.deps.json
+C:\Users\vpush\Desktop\#\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.dll
+C:\Users\vpush\Desktop\#\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+C:\Users\vpush\Desktop\#\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vpush\Desktop\#\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfoInputs.cache
+C:\Users\vpush\Desktop\#\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfo.cs
+C:\Users\vpush\Desktop\#\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\vpush\Desktop\#\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.dll
+C:\Users\vpush\Desktop\#\RepositoryLayer\obj\Debug\net6.0\refint\RepositoryLayer.dll
+C:\Users\vpush\Desktop\#\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.pdb
+C:\Users\vpush\Desktop\#\RepositoryLayer\obj\Debug\net6.0\ref\RepositoryLayer.dll
